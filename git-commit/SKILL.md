@@ -1,5 +1,5 @@
 ---
-name: commit
+name: git-commit
 description: "Read this skill before making git commits"
 ---
 
